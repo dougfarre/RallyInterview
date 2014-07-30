@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.8.1)
+    json (1.8.1-java)
+    rdoc (4.1.1)
+      json (~> 1.4)
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  rdoc
